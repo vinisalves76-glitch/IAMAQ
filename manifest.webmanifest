@@ -1,0 +1,14 @@
+{
+  "id": "./",
+  "name": "Máquina em Foco — Assistente de Manuais",
+  "short_name": "Máquina em Foco",
+  "description": "Assistente técnico para consultar manuais de máquinas com fontes por página.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1219",
+  "theme_color": "#171b20",
+  "orientation": "any",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
